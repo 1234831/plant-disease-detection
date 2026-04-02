@@ -21,7 +21,7 @@ This project is a deep learning-based web application that detects diseases in t
 * Framework: TensorFlow / Keras
 * Architecture: CNN
 * Input Size: 224 × 224 images
-* Output: Disease classification / Invalid image detection
+* Output: Disease Detection
 
 ### Classes:
 
@@ -82,9 +82,7 @@ Then open the generated local link in your browser.
 
 1. Upload an image
 2. Model preprocesses the image
-3. Predicts:
-
-   * Disease clas
+3. Predicts the Disease   
 ---
 
 ## 📊 Dataset
@@ -123,12 +121,6 @@ Then open the generated local link in your browser.
 ## 🤝 Contributing
 
 Feel free to fork this repository and contribute!
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
 
 ---
 
