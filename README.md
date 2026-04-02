@@ -9,7 +9,6 @@ This project is a deep learning-based web application that detects diseases in t
 ## 🚀 Features
 
 * 🌱 Detects multiple tomato leaf diseases
-* ❌ Identifies invalid inputs (non-leaf images)
 * 📷 Image upload-based prediction
 * ⚡ Fast and user-friendly interface using Gradio
 * 🧠 Deep learning model trained on PlantVillage dataset
@@ -35,14 +34,13 @@ This project is a deep learning-based web application that detects diseases in t
 * Yellow Leaf Curl Virus
 * Mosaic Virus
 * Healthy Leaf
-* Non-Leaf (Invalid)
 
 ---
 
 ## 📂 Project Structure
 
 ```
-├── model.keras / model.h5
+├── model.keras
 ├── app.py
 ├── requirements.txt
 ├── README.md
